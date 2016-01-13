@@ -3,7 +3,7 @@
   "title": "MDN: Save With Comment Hotkey",
   "icon": "data/icon64.png",
   "icon64": "data/icon64.png",
-  "id": "jid1-aED6bvv7kyKlMQ",
+  "id": "{8760300e-87ef-45c3-8f2a-e4f0ad26b549}",
   "description":  "A helpful add-on for MDN contributors which adds a hotkey that instantly scrolls to and focuses the revision comment edit box so you can comment and save your changes. The hotkey is Ctl-Alt-Shift-S on Linux and Windows or Cmd-Opt-Shift-S on Mac OS X.",
   "author": "Eric Shepherd <eshepherd@mozilla.com>",
   "homepage": "http://www.bitstampede.com/",
@@ -12,5 +12,6 @@
     "private-browsing": true
   },
   "license": "MPL 2.0",
-  "version": "1.0.1"
+  "version": "1.0.1",
+  "main": "lib/main.js"
 }
